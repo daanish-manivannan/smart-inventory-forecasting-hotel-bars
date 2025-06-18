@@ -1,6 +1,4 @@
-# Save the generated README content as a README.md file
 
-readme_content = """
 # 🍷 Inventory Demand Forecasting & Par Level Recommendation System
 
 ### For Hotel Bar Chain Management
